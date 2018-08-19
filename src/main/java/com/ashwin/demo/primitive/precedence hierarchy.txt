@@ -1,0 +1,23 @@
+The hierarchy of precedence given to each of following primitive data type.
+If data type cannot be casted to anything other than given data type next to each data type.
+ex:
+for float:
+		float --> double
+(in this case you can't pass float to long/int/short/byte/char as it's not given, you can try it out)
+
+for constant:
+		int --> long --> float --> double
+for char:
+		char --> int --> long --> float --> double
+for byte:
+		byte --> short --> int --> long --> float --> double
+for short:
+		shot --> int --> long --> float --> double
+for int:
+		int --> long --> float --> double
+for long:
+		long --> float --> double
+for float:
+		float --> double
+for double:
+		double

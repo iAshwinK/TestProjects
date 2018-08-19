@@ -1,4 +1,4 @@
-package com.com.ashwin.demo.controller;
+package com.ashwin.demo.controller;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

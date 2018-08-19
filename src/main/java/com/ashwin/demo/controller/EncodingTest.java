@@ -1,4 +1,4 @@
-package com.com.ashwin.demo.controller;
+package com.ashwin.demo.controller;
 
 import java.util.Base64;
 
