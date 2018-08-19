@@ -1,4 +1,4 @@
-package com.mkyong.common.controller;
+package com.com.ashwin.demo.controller;
 
 import java.util.Base64;
 

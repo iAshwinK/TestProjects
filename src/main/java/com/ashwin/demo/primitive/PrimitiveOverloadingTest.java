@@ -81,7 +81,11 @@ public class PrimitiveOverloadingTest {
     public static void main(String[] args) {
         PrimitiveOverloadingTest p =
                 new PrimitiveOverloadingTest();
-
+        /**
+         *The nicer way to understand this problem is by executing each of the following
+         *function separately by commenting others, it will give you better undersanting.
+         * Do this for all of them & you will get to know about Primitive Data type overloading.
+         */
         p.testConstVal();
         p.testChar();
         p.testByte();

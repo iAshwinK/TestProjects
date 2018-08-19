@@ -14,6 +14,6 @@
 	</bean>
 
 	<bean name="/welcome.htm" 
-		class="com.mkyong.common.controller.HelloWorldController" />
+		class="com.com.ashwin.demo.controller.HelloWorldController" />
 	
 </beans>
